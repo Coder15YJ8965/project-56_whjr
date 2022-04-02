@@ -1,0 +1,40 @@
+img {
+    width: 500px
+}
+
+body {
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+
+p {
+    background-color: azure;
+    height: 50px;
+    width: 500px;
+}
+
+h1 {
+    text-align: center
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style
+{
+    margin-right:25px;
+    margin-left: 25px;
+    background-color: white; 
+}
+div
+{
+    margin-top:15px;
+}
+.section-style 2
+{
+    margin-right:25px;
+    margin-left: 25px;
+    background-color: white;
+}
